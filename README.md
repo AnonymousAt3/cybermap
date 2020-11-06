@@ -2,15 +2,24 @@
 
 
 # Menu
-* {1}  Scanning open ports                              {2}  OS detection
-* {3}  Scan your network                                {4}  Scan the most popular ports
-* {5}  Scan TCP or UDP protocols                        {6}  Standard service detection
-* {7}  Detect Firewall Settings                         {8}  Identify hostnames
-* {9}  Scan a firewall for MAC address spoofing         {10} Scan a single port
-* {11} Default script scan                              {12} Detect heartbleed SSL vulnerability
-* {13} IP address information                           {14} Scan filtered ports
-* {15} Scan list of hosts from a file                   {16} Scan an IP address range
-* {17} Aggressive and obtrusive scan                    {18} XML output
+* {1}  Scanning open ports
+* {2}  OS detection
+* {3}  Scan your network
+* {4}  Scan the most popular ports
+* {5}  Scan TCP or UDP protocols  
+* {6}  Standard service detection
+* {7}  Detect Firewall Settings 
+* {8}  Identify hostnames
+* {9}  Scan a firewall for MAC address spoofing 
+* {10} Scan a single port
+* {11} Default script scan  
+* {12} Detect heartbleed SSL vulnerability
+* {13} IP address information
+* {14} Scan filtered ports
+* {15} Scan list of hosts from a file 
+* {16} Scan an IP address range
+* {17} Aggressive and obtrusive scan
+* {18} XML output
 
 
 <IMG SRC="https://github.com/AnonymousAt3/cybermap/blob/main/gif/cyber.gif">

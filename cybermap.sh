@@ -1,4 +1,5 @@
 #!/bin/bash
+#This Script Was Made By @cyberghost
 
 clear
 
